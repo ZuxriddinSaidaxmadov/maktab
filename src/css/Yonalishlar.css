@@ -1,0 +1,16 @@
+#box{
+    background-color: #f3f3f3;
+    padding-bottom: 0px;
+}
+#boxTitle, #boxTitle1{
+    color: black;
+
+}
+@media(max-width: 768px){
+    #boxTitle1{
+        font-size: 20px;
+    }
+    #boxTitle{
+        font-size: 10px;
+    }
+}
